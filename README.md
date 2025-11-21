@@ -18,9 +18,8 @@
 在技术狂潮中，我选择 **“慢即是快”** ——打磨系统，而非追逐热点；沉淀理解，而非堆砌简历。
 
 - 🛠️ 作者 of [PandaCoder](https://github.com/shuyixiao-better) —— 一个让开发者更专注思考的智能助手  
-- 🌐 个人站点：[poeticcoder.com](https://www.shuyixiao.cn)  
-- 📝 技术博客：[舒一笑的架构](https://blog.csdn.net/weixin_50503886)  
-- 🔧 技能栈：Java · RAG · 系统设计 · 生成式 AI 应用工程化 [[1]][[3]]
+- 🌐 个人站点：[poeticcoder.com](http://www.poeticcoder.com/)
+- 🔧 技能栈：Java · RAG · 系统设计 · 生成式 AI 应用工程化
 
 ---
 
